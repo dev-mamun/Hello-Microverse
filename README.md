@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 <!-- PROJECT DESCRIPTION -->
 # 📖 Hello Microverse <a name="about-project"></a>
 > This is the first project as full time student.
