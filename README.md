@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 <!-- PROJECT DESCRIPTION -->
 # 📖 Hello Microverse <a name="about-project"></a>
 > This is the first project as full time student.
@@ -6,6 +8,27 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
-> A linter for HTML and CSS  apply in this project.
+- html
+- css
+- Webhint
+- Styleint
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@Mamun](https://github.com/dev-mamun)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
 
 
