@@ -43,9 +43,7 @@
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- [ ] Header with color
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,7 +53,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://dev-mamun.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,6 +69,9 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- [ ] Having an IDE
+- [ ] Having Git installed
+
 <!--
 Example command:
 
@@ -83,39 +84,35 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:dev-mamun/Hello-Microverse.git
 ```
---->
+
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
 
 ```sh
-  cd my-project
-  gem install
+  cd Hello-Microverse
+  npm install
+  npm init -y
+  npm install --save-dev hint@7.x
+  npx hint .
+  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+- VSCode use [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
-```sh
-  rails server
-```
---->
+Alternative: Locate the folder where you cloned your project and open the `index.html` file in your browser to view your project.
+
 
 ### Run tests
 
@@ -159,9 +156,7 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] Adding another header
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,24 +181,14 @@ Give a ⭐️ if you like this project!
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank...
+- Teammates
+- Mentors
+- Youtube tutorials
+- Microverse guides
+- Google Search
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-    - [Answer_1]
-
-- **[Question_2]**
-
-    - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
